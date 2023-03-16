@@ -1,0 +1,13 @@
+body {
+	min-width: 500px;
+	min-height: 900px;
+}
+
+.center {
+	text-align: center;
+}
+
+textarea {
+	min-width: 450px;
+	min-height: 850px;
+}

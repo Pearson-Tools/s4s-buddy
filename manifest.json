@@ -1,0 +1,11 @@
+{
+	"name": "Meetup Scraper",
+	"description": "Scrap Meetup.com event information",
+	"version": "1.0",
+	"manifest_version": 3,
+	"action": {
+		"default_popup": "main.html"
+	},
+	"permissions": ["activeTab", "scripting"]
+	
+}
