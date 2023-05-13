@@ -1,6 +1,6 @@
 {
-	"name": "Meetup Scraper",
-	"description": "Scrap Meetup.com event information",
+	"name": "S4S Buddy",
+	"description": "An extension to make creating sub4sub messages quick and easy.",
 	"version": "1.0",
 	"manifest_version": 3,
 	"action": {

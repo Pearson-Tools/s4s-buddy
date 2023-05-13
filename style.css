@@ -1,6 +1,6 @@
 body {
-	min-width: 500px;
-	min-height: 900px;
+	min-width: 300px;
+	min-height: 300px;
 }
 
 .center {
@@ -8,6 +8,6 @@ body {
 }
 
 textarea {
-	min-width: 450px;
-	min-height: 850px;
+	min-width: 250px;
+	min-height: 250px;
 }
